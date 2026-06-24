@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/type/waving&color=gradient&height=200&section=header&text=SLAY%20SAY&fontSize=60&animation=fadeIn" width="100%" />
+  <img src="<img src="https://capsule-render.vercel.app/type/rect&color=gradient&height=200&section=header&text=SLAY%20SAY&fontSize=60&animation=fadeIn" width="100%" />" width="100%" />
 
   <h3>🚀 Aspiring Web Developer | Lahore, Pakistan</h3>
   <p>Transforming coffee into clean, responsive web code. Documenting my journey from the ground up.</p>
